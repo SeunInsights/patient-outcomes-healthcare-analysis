@@ -25,7 +25,7 @@ A data-driven healthcare analytics project examining treatment costs, hospital l
 - Cardiac Arrest recorded the highest mortality rate: 31.97%
 - Sepsis recorded a mortality rate of 29.67%
 
-## Dashboard
+## Dashboard image 📊
 <img width="948" height="779" alt="image" src="https://github.com/user-attachments/assets/17f4e029-9f8a-48ff-89fb-e163470f5e7e" />
 
 The interactive Power BI dashboard provides an overview of healthcare costs, hospital utilization, patient demographics, and mortality outcomes.
